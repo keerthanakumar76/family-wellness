@@ -1,0 +1,33 @@
+.body-section {
+  text-align: center;
+  padding: 20px;
+}
+
+.main-image img {
+  width: 300px;
+  height: 250px;
+}
+
+.intro-text {
+  background-color: #900;
+  color: white;
+  padding: 20px;
+}
+
+.intro-text button {
+  margin: 10px;
+  padding: 10px 20px;
+  background-color: #900;
+  border-color: #fff;
+  color: white;
+  border: 1px solid;
+  cursor: pointer;
+}
+
+.intro-text button:hover{
+    border-color: #000;
+}
+
+.additional-info {
+  padding: 20px;
+}
